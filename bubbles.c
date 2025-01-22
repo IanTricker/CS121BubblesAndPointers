@@ -34,7 +34,6 @@ void printValues(int* values){
 } // end printValues
 
 void sort(int* values){
-  printf("start");
   int i;
   int j;
   for(i=0;i<MAX-1;i++){
